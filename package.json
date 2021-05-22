@@ -2,7 +2,7 @@
   "name": "react-smooth-scroll",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://shreyasprabhudev.github.io/deploy-react",
+  "homepage": "http://shreyasprabhudev.github.io/react-smooth-scroll-project",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
